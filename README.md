@@ -1,5 +1,4 @@
-Date: May 4rd, 2021
-Name: Miriam Snow
+May 4th 2021, Miriam Snow
 
 This is a tennis scoring system developed for Evnex Tennis tournament with only one set.
 Two main methods were developed to keep track of the score, they are "score" and "pointWonBy".
